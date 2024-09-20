@@ -1,0 +1,9 @@
+﻿{
+  "Id": "HidePanelsWithHotkey",
+  "DisplayName": "Hide combat log and action panels with a Hotkey",
+  "Author": "xreaper95",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.30.1",
+  "AssemblyName": "HidePanelsWithHotkey.dll",
+  "EntryMethod": "HidePanelsWithHotkey.Entrypoint.Load"
+}
