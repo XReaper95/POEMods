@@ -14,7 +14,7 @@ so this is really meant for developers, but feel free to ask for help.
 ### Hide panels with hotkey
 
 There is a little arrow that hides the log console and action bar HUD items, but 
-there are no keyboard hotkeys for them, which I found to be annoying, so these mods add
+there are no keyboard hotkeys for them, which I found to be annoying, so this mod add
 them:
 - `L` key for hiding the log console.
 - `;` key for hiding the action bar.
