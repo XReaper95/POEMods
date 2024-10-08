@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a personal collection of mods that I created for Pillars of Eternity (1, not Deadfire) game, and expansions.
+This is a personal collection of mods that I created for Pillars of Eternity game (1, not Deadfire) and its expansions.
 
 ## Installation
 
